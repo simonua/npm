@@ -17,7 +17,7 @@ this:
 
     npm view connect
 
-The default version is "latest" if unspecified.
+The default version is "latest", if unspecified.
 
 Field names can be specified after the package descriptor.
 For example, to show the dependencies of the `ronn` package at version
@@ -71,6 +71,10 @@ To show the `connect` package version history, you can do
 this:
 
     npm view connect versions
+    
+Alternatively, to show just the latest version, you can run:
+
+    npm view connect version
 
 ## OUTPUT
 
@@ -80,10 +84,10 @@ another command. If the field is an object, it will be output as a JavaScript ob
 
 If the --json flag is given, the outputted fields will be JSON.
 
-If the version range matches multiple versions, than each printed value
+If the version range matches multiple versions, then each printed value
 will be prefixed with the version it applies to.
 
-If multiple fields are requested, than each of them are prefixed with
+If multiple fields are requested, then each of them are prefixed with
 the field name.
 
 ## SEE ALSO
