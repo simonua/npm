@@ -71,6 +71,10 @@ To show the `connect` package version history, you can do
 this:
 
     npm view connect versions
+    
+Alternatively, to show just the latest version, you can run:
+
+    npm view connect version
 
 ## OUTPUT
 
