@@ -120,7 +120,7 @@
   ([@mcollina](https://github.com/mcollina))
 * [`e160adf9f`](https://github.com/npm/npm/commit/e160adf9fce09f226f66e0892cc3fa45f254b5e8)
   `update-notifier@2.4.0`
-  ([@sindersorhus](https://github.com/sindersorhus))
+  ([@sindresorhus](https://github.com/sindresorhus))
 * [`9a9d7809e`](https://github.com/npm/npm/commit/9a9d7809e30d1add21b760804be4a829e3c7e39e)
   `marked@0.3.1`
   ([@joshbruce](https://github.com/joshbruce))
